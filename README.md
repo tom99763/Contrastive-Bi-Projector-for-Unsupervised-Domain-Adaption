@@ -31,5 +31,8 @@ intra-class and distinguishable for inter-class. Experimental
 results express that the CBPUDA is superior to conventional 
 UDA methods under consideration in this paper for the UDA and 
 the fine-grained UDA tasks.
-![CBPUDA](figures/framework.png)
+
+<p align="center">
+            <img src="figures/framework.png" width="600" height="300">
+</p>
 
