@@ -33,6 +33,6 @@ UDA methods under consideration in this paper for the UDA and
 the fine-grained UDA tasks.
 
 <p align="center">
-            <img src="figures/framework.png" width="600" height="300">
+            <img src="figures/framework.png" width="600" height="400">
 </p>
 
