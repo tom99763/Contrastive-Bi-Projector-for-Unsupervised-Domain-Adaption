@@ -3,7 +3,7 @@
 ## Abstract
 <!-- [ABSTRACT] -->
 This paper proposes a novel unsupervised domain 
-adaption (UDA) method based on contrastive bi-projector (CBP), 
+adaption (UDA) method based on **contrastive bi-projector** (CBP), 
 which can improve the existing UDA methods. It is called 
 CBPUDA here, which effectively promotes the feature extractors 
 (FEs) to reduce the generation of ambiguous features for 
